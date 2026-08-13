@@ -99,7 +99,7 @@ public class Banksystem {
 				break;
 			case 4:
 				System.out.println("AMOUNT:");
-				sAcc.withdraw(s.nextDouble());
+				cAcc.withdraw(s.nextDouble());
 				break;
 			case 5:
 				System.out.println("AMOUNT");
